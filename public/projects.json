@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Meta Blog - Modern Blogging Platform",
+    "images": [
+      "https://i.ibb.co.com/W4CQh0Lt/meta-blog-1.png"
+    ],
+    "summary": "A responsive and elegant blog website allowing users to explore, read, and interact with articles in a modern interface.",
+    "techStack": ["React.js", "TailwindCSS", "Node.js", "Express.js", "MongoDB"],
+    "description": "Meta Blog is a personal blogging platform developed using React and TailwindCSS. It features a clean, minimal design for reading and exploring blog posts. It includes categories, author details, responsive layout, and modern animations.",
+    "liveLink": "https://meta-blog-final.vercel.app/",
+    "githubLink": "https://github.com/masumparvez56/meta-blog-app",
+    "keyFeatures": [
+      "Responsive blog listing and article detail pages",
+      "Modern UI using TailwindCSS",
+      "Dynamic category-based post filtering",
+      "Reusable React components with props",
+      "Smooth transitions and animations",
+      "SEO-friendly structure with meta tags"
+    ],
+    "challenges": [
+      "Designing a responsive layout compatible with all devices",
+      "Structuring reusable and scalable component architecture",
+      "Optimizing images and assets for fast load times"
+    ],
+    "futurePlans": [
+      "Add comment and like functionality",
+      "Integrate a backend with database for post management",
+      "Enable markdown-based blog authoring"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Panto Furniture - Furniture E‑commerce UI",
+    "images": [
+      "https://i.ibb.co.com/WWfc8Qbg/panto-furniture-1.png"
+    ],
+    "summary": "A stylish e‑commerce furniture website focusing on minimal design and smooth UI interactions.",
+    "techStack": ["React.js", "TailwindCSS"],
+    "description": "Panto Furniture is a modern furniture store front‑end built with React and TailwindCSS. It showcases product cards, categories, and elegant hero sections, designed for smooth browsing and visual appeal.",
+    "liveLink": "https://panto-furniture-nine.vercel.app/",
+    "githubLink": "https://github.com/masumparvez56/panto-furniture",
+    "keyFeatures": [
+      "Hero section with featured product carousel",
+      "Responsive grid layout for products",
+      "Reusable React components for sections",
+      "Interactive hover effects with transitions",
+      "Clean typography and spacing using TailwindCSS",
+      "Simple cart button and navigation system"
+    ],
+    "challenges": [
+      "Maintaining consistent responsive design across sections",
+      "Optimizing image assets for better performance",
+      "Fine‑tuning animation performance on low-end devices"
+    ],
+    "futurePlans": [
+      "Add shopping cart and checkout functionality",
+      "Integrate backend for dynamic products",
+      "Include user authentication and wishlist feature"
+    ]
+  }
+]
