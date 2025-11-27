@@ -25,7 +25,6 @@ const Home = () => {
 
                     <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold text-white mb-2 leading-tight">
                         Hi, I'm{" "}
-                        {/* <span className="text-4xl md:text-5xl lg:text-6xl font-bold mb-2 leading-tight text-slate-400">Md. Masum Parvez</span> */}
                     </h1>
 
                     <h2 className="text-3xl md:text-5xl lg:text-6xl font-bold mb-2 leading-tight text-slate-400">
@@ -88,21 +87,17 @@ const Home = () => {
                             duration: 4,
                             repeat: Infinity,
                         }}
-                        className="absolute w-full h-full rounded-full 
-            bg-linear-to-br from-purple-500 via-indigo-600 to-purple-500 blur-2xl"
+                        className="absolute w-full h-full rounded-full bg-linear-to-br from-purple-500 via-indigo-600 to-purple-500 blur-2xl"
                     />
 
                     {/* Outer Border Circle */}
-                    <div className="absolute w-full h-full rounded-full 
-          border-8 border-transparent 
-          bg-linear-to-tr from-purple-700 to-indigo-700 p-1" />
+                    <div className="absolute w-full h-full rounded-full border-8 border-transparent bg-linear-to-tr from-purple-700 to-indigo-700 p-1" />
 
                     {/* Profile Image */}
                     <img
                         src={profileImage}
                         alt="Profile"
-                        className="relative z-10 w-full h-full object-cover 
-            rounded-full border-4 border-[#1e293b] shadow-2xl"
+                        className="relative z-10 w-full h-full object-cover rounded-full border-4 border-[#1e293b] shadow-2xl"
                     />
                 </motion.div>
             </div>
