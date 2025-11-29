@@ -36,7 +36,7 @@
       "https://i.ibb.co.com/WWfc8Qbg/panto-furniture-1.png"
     ],
     "summary": "A stylish e‑commerce furniture website focusing on minimal design and smooth UI interactions.",
-    "techStack": ["React.js", "TailwindCSS"],
+    "techStack": ["React.js", "TailwindCSS", "React Router"],
     "description": "Panto Furniture is a modern furniture store front‑end built with React and TailwindCSS. It showcases product cards, categories, and elegant hero sections, designed for smooth browsing and visual appeal.",
     "liveLink": "https://panto-furniture-nine.vercel.app/",
     "githubLink": "https://github.com/masumparvez56/panto-furniture",
@@ -57,6 +57,36 @@
       "Add shopping cart and checkout functionality",
       "Integrate backend for dynamic products",
       "Include user authentication and wishlist feature"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Doctor Care - Healthcare Service Website",
+    "images": [
+      "https://i.ibb.co.com/W4BLcjvL/Doctor-Care.png"
+    ],
+    "summary": "A clean and modern healthcare service landing page providing users with essential medical information in a simple, responsive layout.",
+    "techStack": ["React.js", "TailwindCSS"],
+    "description": "Doctor Care is a modern healthcare service landing page built with React and TailwindCSS. It features a responsive hero section, service cards, contact section, and clean UI optimized for a professional medical website.",
+    "liveLink": "https://doctor-care-project-tau.vercel.app/",
+    "githubLink": "https://github.com/masumparvez56/doctor-care-project",
+    "keyFeatures": [
+      "Fully responsive medical service landing page",
+      "Clean and modern UI with TailwindCSS",
+      "Service section with structured layout",
+      "Smooth scrolling and clean navigation",
+      "Optimized images for fast loading",
+      "Professional healthcare theme layout"
+    ],
+    "challenges": [
+      "Ensuring pixel-perfect alignment across sections",
+      "Maintaining visual consistency in a professional-themed UI",
+      "Balancing responsiveness with minimalistic design"
+    ],
+    "futurePlans": [
+      "Add appointment booking form integration",
+      "Create dynamic service management with backend",
+      "Add testimonial and doctor team sections"
     ]
   }
 ]
