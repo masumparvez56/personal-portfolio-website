@@ -17,21 +17,21 @@ const Home = () => {
                     initial={{ opacity: 0, x: -40 }}
                     animate={{ opacity: 1, x: 0 }}
                     transition={{ duration: 1 }}
-                    className="space-y-7 max-w-2xl">
+                    className="space-y-5 max-w-2xl">
 
                     <span className="inline-flex items-center gap-2 rounded-full border border-purple-800 px-5 py-1 bg-[#13203f] text-base md:text-lg font-medium">
                         <LuSparkles /> Welcome to my portfolio!
                     </span>
 
-                    <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold text-white mb-2 leading-tight">
+                    <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold text-white mb-1.5 leading-tight">
                         Hi, I'm{" "}
                     </h1>
 
-                    <h2 className="text-3xl md:text-5xl lg:text-6xl font-bold mb-2 leading-tight text-slate-400">
+                    <h2 className="text-3xl md:text-5xl lg:text-6xl font-bold mb-1.5 leading-tight text-slate-400">
                         Md. Masum Parvez
                     </h2>
 
-                    <h3 className="text-xl md:text-2xl lg:text-3xl font-semibold mb-2 text-[#8245ec] leading-tight">
+                    <h3 className="text-xl md:text-2xl lg:text-3xl font-semibold mb-1.5 text-[#8245ec] leading-tight">
                         <span className="text-white">I am a </span>
                         <ReactTypingEffect
                             className="text-transparent bg-clip-text bg-linear-to-r from-purple-400 to-cyan-400"
@@ -50,7 +50,7 @@ const Home = () => {
                         />
                     </h3>
 
-                    <p className="text-base md:text-lg text-gray-400 mb-6 mt-6 leading-relaxed">
+                    <p className="text-base md:text-lg text-gray-400 mb-5 mt-5 leading-relaxed">
                         Passionate about building real-world projects that solve real problems.
                         With <br /> a strong focus on JavaScript and UI/UX, I bring your ideas to life
                         through <br /> clean code and thoughtful design.
@@ -60,7 +60,7 @@ const Home = () => {
                         href="https://drive.google.com/file/d/1vtNM_XEzCKBQdDcH_pNLcTx2TgpUg9ig/view?usp=sharing"
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="inline-block text-white py-3 px-7 rounded-full mt-2 text-lg font-bold transition duration-300 transform hover:scale-105"
+                        className="inline-block text-white py-3 px-7 rounded-full mt-1.5 text-lg font-bold transition duration-300 transform hover:scale-105"
                         style={{
                             background: 'linear-gradient(90deg, #8245ec, #a855f7)',
                             boxShadow: '0 0 2px #8245ec, 0 0 2px #8245ec, 0 0 40px #8245ec',
