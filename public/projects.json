@@ -66,7 +66,7 @@
       "https://i.ibb.co.com/W4BLcjvL/Doctor-Care.png"
     ],
     "summary": "A clean and modern healthcare service landing page providing users with essential medical information in a simple, responsive layout.",
-    "techStack": ["React.js", "TailwindCSS"],
+    "techStack": ["React.js", "TailwindCSS", "React Router"],
     "description": "Doctor Care is a modern healthcare service landing page built with React and TailwindCSS. It features a responsive hero section, service cards, contact section, and clean UI optimized for a professional medical website.",
     "liveLink": "https://doctor-care-project-tau.vercel.app/",
     "githubLink": "https://github.com/masumparvez56/doctor-care-project",
