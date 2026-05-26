@@ -57,7 +57,7 @@ const Home = () => {
                     </p>
 
                     <a
-                        href="https://drive.google.com/file/d/1-RvvQ27CK4mLmYuViCmOAR4It4W1zqPu/view?usp=sharing"
+                        // href="https://drive.google.com/file/d/1-RvvQ27CK4mLmYuViCmOAR4It4W1zqPu/view?usp=sharing"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-block text-white py-3 px-7 rounded-full mt-1.5 text-lg font-bold transition duration-300 transform hover:scale-105"
